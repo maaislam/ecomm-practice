@@ -1,0 +1,35 @@
+
+
+    .header{
+        position: absolute;
+        top: 6%;
+        left: 10%;
+        
+    }
+
+    .title {
+        font-size: 5rem;
+        font-weight: 300;
+        margin-bottom: 0;
+       
+    }
+
+    .searchBox{
+        margin-top: 3rem !important;
+    }
+    span{
+        font-weight: 400;
+    }
+
+    p{
+        font-size: 0.7rem;
+      
+        margin-bottom: 2rem !important;
+    }
+
+    .menuItems{
+        display: flex;
+        justify-content: center;
+        margin-top: -1rem !important;
+        margin-bottom: 5rem !important;
+    }
